@@ -6,7 +6,7 @@ This code has Eigen dependency. Before running this code, please make sure you u
 ### To-do list
 
 - [ ] Multithreaded implementation.
-- [ ] Create Python wrapper for the code for easier usage.
+- [X] Create Python wrapper for the code for easier usage. (Done pybind11_module)
 - [ ] Create a DTM python module that can be easily pip installed.
 
 ### License
